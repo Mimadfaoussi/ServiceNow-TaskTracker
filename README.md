@@ -52,12 +52,6 @@ The **Task Tracker** application is a simple tool for managing and tracking task
 ![Table Example](./img/Table.png)
 
 
----
-
-## Future Improvements
-- Add user roles for better access control.
-- Enable task assignment to specific users.
-- Add advanced reporting features.
 
 ---
 
